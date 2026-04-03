@@ -23,3 +23,10 @@
 
 
 ---
+
+### Comment by @shinelu2013 at 2026-04-03 14:52:17.000 UTC
+
+🛠 技能 **agent-browser** 已安裝完成。
+
+
+---
