@@ -30,3 +30,16 @@
 
 
 ---
+
+### Comment by @shinelu2013 at 2026-04-03 14:56:59.000 UTC
+
+<!-- telegram-meta: {"chat_id":1693508318,"msg_id":39,"user_id":1693508318,"username":null,"chat_type":"private","ts":"2026-04-03T14:56:56.000Z"} -->
+
+**來自：** Shine Lu · private
+
+---
+
+請使用 research agent 幫我搜尋分析 華邦電 公司今年的發展預期如何？ 再分析目前的股價走勢及法人買賣狀況，統整後對一般投資人給出投資建議
+
+
+---
