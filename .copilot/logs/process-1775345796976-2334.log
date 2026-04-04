@@ -1,0 +1,34 @@
+2026-04-04T23:36:37.653Z [INFO] Workspace initialized: a15933af-18e4-46d7-8c94-7051f006bb34 (checkpoints: 0)
+2026-04-04T23:36:38.017Z [INFO] Starting Copilot CLI: 1.0.14
+2026-04-04T23:36:38.017Z [INFO] Node.js version: v24.11.1
+2026-04-04T23:36:39.028Z [ERROR] Request to MCP registry policy at https://api.github.com/copilot/mcp_registry failed with status 404 (request ID: 3400:1F5998:60689F6:17DC4165:69D1A085), body: {"message":"Not Found","documentation_url":"https://docs.github.com/rest","status":"404"}
+2026-04-04T23:36:39.029Z [WARNING] Failed to fetch MCP registry policy: GitHubApiError: Failed to fetch MCP registry policy: 404 . Non-default MCP servers will be blocked until the policy can be fetched.
+2026-04-04T23:36:39.034Z [ERROR] Starting remote MCP client for github-mcp-server with url: https://api.individual.githubcopilot.com/mcp/readonly
+2026-04-04T23:36:39.035Z [ERROR] Creating MCP client for github-mcp-server...
+2026-04-04T23:36:39.035Z [ERROR] Connecting MCP client for github-mcp-server...
+2026-04-04T23:36:39.321Z [ERROR] MCP client for github-mcp-server connected, took 286ms
+2026-04-04T23:36:39.322Z [ERROR] Started MCP client for remote server github-mcp-server
+2026-04-04T23:36:39.322Z [ERROR] GitHub MCP server configured after authentication
+2026-04-04T23:36:39.903Z [INFO] Memory enablement check: enabled
+2026-04-04T23:36:39.924Z [INFO] Memory enablement check: enabled
+2026-04-04T23:36:40.439Z [INFO] Memory enablement check: enabled
+2026-04-04T23:36:40.671Z [INFO]  
+2026-04-04T23:36:40.671Z [INFO] --- Start of group: configured settings: ---
+2026-04-04T23:36:40.671Z [INFO] --- End of group ---
+2026-04-04T23:36:40.910Z [INFO]  
+2026-04-04T23:36:40.910Z [INFO] --- Start of group: configured settings: ---
+2026-04-04T23:36:40.911Z [INFO] --- End of group ---
+2026-04-04T23:36:40.912Z [INFO] --- Start of group: Completion request configuration:  ---
+2026-04-04T23:36:40.914Z [INFO] --- End of group ---
+2026-04-04T23:36:41.564Z [INFO] CompactionProcessor: Utilization 13.8% (37592/272000 tokens) below threshold 80%
+2026-04-04T23:36:41.842Z [INFO] --- Start of group: Sending request to the AI model ---
+2026-04-04T23:36:49.679Z [INFO] --- End of group ---
+2026-04-04T23:37:00.420Z [INFO] CompactionProcessor: Utilization 15.0% (40826/272000 tokens) below threshold 80%
+2026-04-04T23:37:00.718Z [INFO] --- Start of group: Sending request to the AI model ---
+2026-04-04T23:37:14.333Z [INFO] --- End of group ---
+2026-04-04T23:37:16.099Z [INFO] CompactionProcessor: Utilization 15.4% (42011/272000 tokens) below threshold 80%
+2026-04-04T23:37:16.409Z [INFO] --- Start of group: Sending request to the AI model ---
+2026-04-04T23:37:17.803Z [INFO] --- End of group ---
+2026-04-04T23:37:18.388Z [INFO] CompactionProcessor: Utilization 15.9% (43188/272000 tokens) below threshold 80%
+2026-04-04T23:37:18.719Z [INFO] --- Start of group: Sending request to the AI model ---
+2026-04-04T23:37:21.529Z [INFO] --- End of group ---
