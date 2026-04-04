@@ -1,0 +1,18 @@
+id: a15933af-18e4-46d7-8c94-7051f006bb34
+cwd: /home/runner/work/myAssistant/myAssistant
+summary_count: 0
+created_at: 2026-04-04T01:13:38.369Z
+updated_at: 2026-04-04T01:13:41.237Z
+summary: |-
+  請將最終結果寫入 artifacts/4185914380/result.md 。我的提示詞為: 設定排程，每天早上7點半執行以下任務産出晨報：
+
+  ## 執行任務
+  請產出「AI + 開發者工具晨報」，並嚴格遵守以下格式規範、風格要求與資料來源限制。此報告為開發者個人閱讀使用，內容需兼具技術深度與實戰價值。
+
+  ## 資料來源與判讀準則 (Strict Constraints)
+  1. 限用 X / Twitter 訊號**：晨報資料來源**必須限定**在近 24–48 小時內 X / Twitter 上的公開討論、公告、實測與開發者社群訊號。
+  2. **優先觀察清單**：請優先檢索以下固定帳號的動態：
+     - **OpenAI: 官方、Sam Altman、核心研究/產品/工程人員。
+     - Anthropic: 官方、Dario Amodei、Claude Code 相關團隊。
+     - Google: Google DeepMind、Gemini 官方、Google AI Studio 開發團隊。
+     - NVIDIA: 官方、Jensen Huang、developer pla...
